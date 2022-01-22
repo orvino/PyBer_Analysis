@@ -10,7 +10,6 @@ After completing an exploratory analysis for PyBer, a ride-sharing business, a d
 ## Results
 
 ### Differences between the different city types
-total rides, total dirvers, total fare, avg far per ride and dirver and total bare by thype
 
 <img width="828" alt="Screen Shot 2022-01-22 at 10 11 45 AM" src="https://user-images.githubusercontent.com/91889241/150646631-d0b4f47b-9419-42a0-b3d6-f3b8240f7823.png">
 
